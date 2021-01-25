@@ -1,8 +1,40 @@
 {
-    "blogs": [
-        { "title": "First blog", "body": "lorem ipsum", "author": "Jhon", "id": 1 },
-        { "title": "Second blog", "body": "lorem ipsum", "author": "Joe", "id": 2 },
-        { "title": "Third blog", "body": "lorem ipsum", "author": "Joseph", "id": 3 },
-        { "title": "Fourth blog", "body": "lorem ipsum", "author": "Ron", "id": 4 }
-    ]
+  "blogs": [
+    {
+      "title": "First blog",
+      "body": "lorem ipsum",
+      "author": "Jhon",
+      "id": 1
+    },
+    {
+      "title": "Second blog",
+      "body": "lorem ipsum",
+      "author": "Joe",
+      "id": 2
+    },
+    {
+      "title": "Third blog",
+      "body": "lorem ipsum",
+      "author": "Joseph",
+      "id": 3
+    },
+    {
+      "title": "Fourth blog",
+      "body": "lorem ipsum",
+      "author": "Ron",
+      "id": 4
+    },
+    {
+      "title": "Hey man",
+      "body": "This is the body",
+      "author": "nameOne",
+      "id": 5
+    },
+    {
+      "title": "new title",
+      "body": "another test body",
+      "author": "nameTwo",
+      "id": 6
+    }
+  ]
 }
